@@ -8,7 +8,7 @@ summary: This document is intended to serve to share questions and interactions 
 folder: general
 ---
 
-### What is a SPARC data set?
+### What is a SPARC data set? NEW
 A SPARC data set is a collection of data files, supporting documents, and metadata produced by a SPARC investigator.  According to the SPARC data sharing policy, a data set should include any data or supporting materials that the PI deems necessary for a 3rd party to reuse the data and reproduce or replicate the results. In general, such files may include raw (primary) data, experimental protocols, analysis code/workflows, processed (derivative) data, complete results, and textual descriptions of the datasets and their contents.  At time of submission by a PI, the dataset may be considered complete (that is, no new data will will be collected), or it may represent a batch or slice of data that is part of a larger dataset being collected over several milestones.
 
 ### What is the difference between the SPARC data model and metadata on the DAT-CORE? 
