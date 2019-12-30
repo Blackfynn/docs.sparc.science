@@ -20,3 +20,12 @@ In this webinar, you will learn how:
 + The latest [SPARC](https://commonfund.nih.gov/sparc) integrations in MBF software can make your data more findable, accessible, interoperable, and reusable by complying with the FAIR data principles
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7mPZ1o3gXX8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## The Bond Graph/CellML approach to formulating physically based models"
+
+A webinar by [Peter Hunter](https://unidirectory.auckland.ac.nz/profile/phun025) from the [Auckland Bioengineering Institute](https://www.auckland.ac.nz/en/abi.html) describing the use of a bond graph-based approach for constructing models of physiological systems. Presented in the context of building functional maps for the [NIH SPARC programme](https://commonfund.nih.gov/sparc).
+
+**Presenter**: Peter Hunter (Auckland Bioengineering Institute, Auckland, New Zealand) 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dUUsIcSLaew?start=16" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
