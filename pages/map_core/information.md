@@ -14,3 +14,4 @@ The SPARC Map Synthesis Core (MAP-Core) is led by the [Auckland Bioengineering I
 
 * [Connecting to the Blackfynn platform from MBF Bioscience software](MBF-BlackfynnConnection.html)
 * [Accessing SciCrunch vocabulary services for FAIR image segmentation in MBF Bioscience software](MBF-SciCrunchConnection.html)
+* [About FAIR image segmentation in MBF Bioscience software](MBF-FAIRImageSegmentation.html)
