@@ -21,17 +21,17 @@ needs to be done once:
 
 4.  Create an API key to enable the *Upload* functionality (you only need to do this once unless you wish to use different profiles):
 
-    a.  Click **CREATE API TOKEN**. {% include image.html file="map-core/mbf-to-blackfynn/image2.png" alt="workflow" %} 
+    a.  Click **CREATE API TOKEN**. {% include image.html file="map-core/mbf-to-blackfynn/image2.png" alt="workflow" max-width="250" %} 
 
     b.  Enter an **API PROFILE NAME** (any name that makes sense to you).
 
-    c.  Click **GENERATE.** {% include image.html file="map-core/mbf-to-blackfynn/image3.png" alt="workflow" %} 
+    c.  Click **GENERATE.** {% include image.html file="map-core/mbf-to-blackfynn/image3.png" alt="workflow" max-width="450" %} 
 
 ## Download
 
 -   To download a single file, click the name of the file and save it locally.
 
--   To download all the files from a folder, click the name of the folder to view all the files located in the folder, click the **DOWNLOAD ALL** button, and save the files locally. {% include image.html file="map-core/mbf-to-blackfynn/image4.png" alt="workflow" %}
+-   To download all the files from a folder, click the name of the folder to view all the files located in the folder, click the **DOWNLOAD ALL** button, and save the files locally. {% include image.html file="map-core/mbf-to-blackfynn/image4.png" alt="workflow" max-width="250" %}
 
 ## Upload
 
@@ -39,6 +39,6 @@ To upload a folder (you can't upload individual files):
 
 1.  Click the **UPLOAD** button.
 
-2.  Select folder to upload. {% include image.html file="map-core/mbf-to-blackfynn/image5.png" alt="workflow" %}
+2.  Select folder to upload. {% include image.html file="map-core/mbf-to-blackfynn/image5.png" alt="workflow" max-width="250" %}
 
 **NOTE**: *Do NOT include spaces in your folder names. Uploading folders with names that include spaces will fail.*
