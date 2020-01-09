@@ -46,7 +46,7 @@ entries:
       url: /dat_information.html
       output: web, pdf
     - title: MAP-Core Information
-      url: /Webinar_by_PeterHunter.html
+      url: /map_information.html
       output: web, pdf
     - title: Webinars
       url: /webinars.html
