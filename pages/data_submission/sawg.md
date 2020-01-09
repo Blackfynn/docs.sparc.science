@@ -20,4 +20,6 @@ The SPARC Anatomy Working Group (SAWG) is responsible for the integrity of anato
 2. Maintaining ontologies of anatomical knowledge
 3. Compiling and curating computable knowledge about multiscale routes pathways
 
+As part of this process, the SAWG is developing a term request pipeline so that any new terms required for the annotation of SPARC data or maps can be added to the SPARC vocabularies.  All added terms are reviewed by the SAWG on a regular basis.  Details about the SPARC vocabularies and the term request pipeline are available [here](https://docs.google.com/presentation/d/1lgjvHoYJIFXYdvY9JLO5577hO3y2rnDxUd3TRmUzLXA/edit#slide=id.p). 
+
 More detailed information can be found at the [SAWG Home Page](http://ontology.neuinfo.org/trees/sparc/).
